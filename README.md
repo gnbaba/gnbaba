@@ -15,7 +15,6 @@ I am an aspiring software engineer passionate about bringing concepts to life th
 ---
 
 <div align="center">
-
 <table>
   <tr>
     <th colspan="5" align="center">
@@ -55,7 +54,6 @@ I am an aspiring software engineer passionate about bringing concepts to life th
       <br />
     </td>
   </tr>
-
   <tr>
     <th colspan="5" align="center">Frameworks</th>
   </tr>
@@ -91,7 +89,35 @@ I am an aspiring software engineer passionate about bringing concepts to life th
       <br />
     </td>
   </tr>
-
+  <tr>
+    <th colspan="5" align="center">Databases</th>
+  </tr>
+  <tr>
+    <td align="center" width="140">
+      <br /><br /><br /><br />
+    </td>
+    <td align="center" width="140">
+      <br />
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" alt="MySQL" width="65" height="65" /><br/>
+      <sub><b>MySQL</b></sub>
+      <br />
+    </td>
+    <td align="center" width="140">
+      <br />
+      <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="Firebase" width="65" height="65" /><br/>
+      <sub><b>Firebase</b></sub>
+      <br />
+    </td>
+    <td align="center" width="140">
+      <br />
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/supabase/supabase-original.svg" alt="Supabase" width="65" height="65" /><br/>
+      <sub><b>Supabase</b></sub>
+      <br />
+    </td>
+    <td align="center" width="140">
+      <br /><br /><br /><br />
+    </td>
+  </tr>
   <tr>
     <th colspan="5" align="center">Tools</th>
   </tr>
@@ -128,7 +154,6 @@ I am an aspiring software engineer passionate about bringing concepts to life th
     </td>
   </tr>
 </table>
-
 </div>
 
 ---
