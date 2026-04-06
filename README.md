@@ -57,7 +57,7 @@ I am an aspiring software engineer passionate about bringing concepts to life th
   </tr>
 
   <tr>
-    <th colspan="5" align="center">Frameworks & Libraries</th>
+    <th colspan="5" align="center">Frameworks</th>
   </tr>
   <tr>
     <td align="center" width="140">
@@ -136,8 +136,8 @@ I am an aspiring software engineer passionate about bringing concepts to life th
 ### Contribution Snake
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/GianBaba/GianBaba/output/github-contribution-grid-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/GianBaba/GianBaba/output/github-contribution-grid-snake.svg" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/gnbaba/gnbaba/output/github-contribution-grid-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/gnbaba/gnbaba/output/github-contribution-grid-snake.svg" />
   <img alt="github-snake" src="https://raw.githubusercontent.com/gnbaba/gnbaba/output/github-contribution-grid-snake-dark.svg" />
 </picture>
 
